@@ -3,10 +3,14 @@
 #############################
 # Made by: Dorin
 # Date: 26.12.18
-# Purpose: who an I
+# Purpose: Training
 # Version: 0.0.1
 #############################
-
+fname="Dorin"
+lname="Davidov"
+uname="Dorinyme"
+dob="26.10.1995"
+mail="dorinyme@gmail.com"
 printf "%s\n" $fname
 printf "%s\n" $lname
 printf "%s\n" $uname
