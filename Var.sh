@@ -5,4 +5,4 @@
 # Version: 0.0.1
 #############################
 
-echo "{Home: $HOME}" "{User: $USER}" "{Hostname: $HOSTNAME}" "{Display: $DISPLAY}" "{Term: $TERM}" "{Path: $PATH}" "{Histsize: $HISTSIZE}" "{Session_Manager: $SESSION_MANAGER}" "{Shell: $SHELL}" "{Lang: $LANG}" "{Mail: $MAIL Dorinyme@gmail.com}"
+echo "{Home: $HOME}" "{User: $USER}" "{Hostname: $HOSTNAME}" "{Display: $DISPLAY}" "{Term: $TERM}" "{Path: $PATH}" "{Histsize: $HISTSIZE}" "{Session_Manager: $SESSION_MANAGER}" "{Shell: $SHELL}" "{Lang: $LANG}" "{Mail: $MAIL}"
