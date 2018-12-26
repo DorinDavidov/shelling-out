@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ####################
 # Made by: Dorin
 # Date: 25.12.18

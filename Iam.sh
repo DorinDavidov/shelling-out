@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #############################
 # Made by: Dorin
 # Date: 26.12.18
@@ -10,4 +12,5 @@ printf "%s\n" $lname
 printf "%s\n" $uname
 printf "%s\n" $dob
 printf "%s\n" $mail
+
 
