@@ -1,10 +1,25 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #############################
 # Made by: Dorin
 # Date: 25.12.18
 # Purpose: echo variables
-# Version: 0.0.1
+# Version: 1.0.2
 #############################
 
-echo "{Home: $HOME}" "{User: $USER}" "{Hostname: $HOSTNAME}" "{Display: $DISPLAY}" "{Term: $TERM}" "{Path: $PATH}" "{Histsize: $HISTSIZE}" "{Session_Manager: $SESSION_MANAGER}" "{Shell: $SHELL}" "{Lang: $LANG}" "{Mail: $MAIL}"
+MAIL="dorinyme@gmail.com"
+HISTSIZE="1000"
+
+echo "{Home:$HOME}" 
+echo "{User:$USER}" 
+echo "{Hostname:$HOSTNAME}" 
+echo "{Display:$DISPLAY}" 
+echo "{Term:$TERM}" 
+echo "{Path:$PATH}" 
+echo "{Histsize:$HISTSIZE}" 
+echo "{Session_Manager:$SESSION_MANAGER}" 
+echo "{Shell:$SHELL}" 
+echo "{Lang:$LANG}" 
+echo "{Mail:$MAIL}"
+
+echo DONE
