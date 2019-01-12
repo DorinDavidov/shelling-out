@@ -13,7 +13,7 @@ shabang='#!/usr/bin/env bash'
 line="################################"
 comment="#"
 author="DorinDavidov"
-date=$(date +%D)
+my_date=$(date +%D)
 my_purpose="..."
 version="0.0.0"
 my_time="2.5"
@@ -37,7 +37,7 @@ sleep $my_time
 echo $shabang > $script_name
 echo $line >> $script_name
 echo "$comment $author" >> $script_name
-echo "$comment $date " >> $script_name
+echo "$comment $my_date " >> $script_name
 echo "$comment $my_purpose" >> $script_name
 echo "$comment $version" >> $script_name
 echo $line    >> $script_name
